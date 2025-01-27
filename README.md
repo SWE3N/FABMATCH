@@ -9,9 +9,9 @@ The **FABMATCH** project is a digital platform aimed at supporting students and 
 | Name                 | Role               | Contact              | LinkedIn                             |
 |----------------------|--------------------|----------------------|--------------------------------------|
 | Fahad Alghamdi       | Founder / Developer | fahad@example.com    | [Fahad Alghamdi](https://linkedin.com/in/fahad-alghamdi) |
-| Saad Alquhaiz        | Backend Developer  | saad@example.com     | [Saad Alquhaiz](https://linkedin.com/in/saad-alquhaiz)   |
-| Abdullah Aldosari    | Backend Developer| abdullah@example.com | [Abdullah Aldosari](https://linkedin.com/in/abdullah-aldosari) |
-| Abdulaziz Albudrani  | Backend Developer     | abdulaziz@example.com| [Abdulaziz Albudrani](https://linkedin.com/in/abdulaziz-albudrani) |
+| Saad Alquhaiz        | Founder / Developer  | saad@example.com     | [Saad Alquhaiz](https://linkedin.com/in/saad-alquhaiz)   |
+| Abdullah Aldosari    | Founder / Developer| abdullah@example.com | [Abdullah Aldosari](https://linkedin.com/in/abdullah-aldosari) |
+| Abdulaziz Albudrani  |Founder / Developer     | abdulaziz@example.com| [Abdulaziz Albudrani](https://linkedin.com/in/abdulaziz-albudrani) |
 
 ---
 
