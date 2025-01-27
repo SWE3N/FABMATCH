@@ -1,4 +1,4 @@
-# FABMATCH
+# <p align="center">**FABMATCH**</p>
 
 ![The Impact of 3D Printing](./src/assets/The-Impact-of-3D-Printing-on-Manufacturing-and-Design-Industries.gif)
 
@@ -59,5 +59,4 @@ To run the project, make sure you have the following tools installed on your dev
 - 🎨 **CSS**: For styling and designing the user interface.
 
 ---
-
 
