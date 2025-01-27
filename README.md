@@ -2,7 +2,7 @@
 
 ![The Impact of 3D Printing](./src/assets/The-Impact-of-3D-Printing-on-Manufacturing-and-Design-Industries.gif)
 
-The **FABMATCH** project is a digital platform aimed at supporting students and innovators. It is built using modern technologies like **React** and **Vite** to provide a seamless and fast experience.
+The **FABMATCH** project is a 🖥️ digital platform that serves as a mediator between 🖨️ 3D printer owners, 🏗️ specialized 3D designers, and end-users, aimed at supporting students and innovators. It is built using modern technologies like **⚛️ React** and **⚡ Vite** to provide a seamless and fast experience.
 
 ---
 
@@ -10,10 +10,10 @@ The **FABMATCH** project is a digital platform aimed at supporting students and 
 
 | Name                 | Role               | Contact              | LinkedIn                             |
 |----------------------|--------------------|----------------------|--------------------------------------|
-| Fahad Alghamdi       | Founder / Developer | fahad@example.com    | [Fahad Alghamdi](https://linkedin.com/in/fahad-alghamdi) |
-| Saad Alquhaiz        | Founder / Developer  | saad@example.com     | [Saad Alquhaiz](https://linkedin.com/in/saad-alquhaiz)   |
-| Abdullah Aldosari    | Founder / Developer| abdullah@example.com | [Abdullah Aldosari](https://linkedin.com/in/abdullah-aldosari) |
-| Abdulaziz Albudrani  |Founder / Developer     | abdulaziz@example.com| [Abdulaziz Albudrani](https://linkedin.com/in/abdulaziz-albudrani) |
+| Fahad Alghamdi       | Founder / Developer | 📧 fahad@example.com    | [🔗 Fahad Alghamdi](https://linkedin.com/in/fahad-alghamdi) |
+| Saad Alquhaiz        | Founder / Developer  | 📧 saad@example.com     | [🔗 Saad Alquhaiz](https://linkedin.com/in/saad-alquhaiz)   |
+| Abdullah Aldosari    | Founder / Developer | 📧 abdullah@example.com | [🔗 Abdullah Aldosari](https://linkedin.com/in/abdullah-aldosari) |
+| Abdulaziz Albudrani  | Founder / Developer  | 📧 abdulaziz@example.com | [🔗 Abdulaziz Albudrani](https://linkedin.com/in/abdulaziz-albudrani) |
 
 ---
 
@@ -38,19 +38,20 @@ To run the project, make sure you have the following tools installed on your dev
    ```bash
    git clone https://github.com/your-username/repository-name.git
    cd repository-name
----
+   ```
 
-## 📥Install the required packages
-
-2.
+2. Install the required packages:
    ```bash
    npm install
----
-## 🚀Installation Steps
-3.
+   ```
+
+3. Run the development server:
    ```bash
    npm run dev
+   ```
+
 ---
+
 ## 🛠️ Tools and Technologies Used
 
 - ⚛️ **React**: A JavaScript library for building user interfaces.
@@ -58,4 +59,5 @@ To run the project, make sure you have the following tools installed on your dev
 - 🎨 **CSS**: For styling and designing the user interface.
 
 ---
+
 
