@@ -1,5 +1,4 @@
 # FABMATCH
-![Digital Innovation Club Logo](./src/assets/DIC.png)
 
 The **FABMATCH** project is a digital platform aimed at supporting students and innovators. It is built using modern technologies like **React** and **Vite** to provide a seamless and fast experience.
 
