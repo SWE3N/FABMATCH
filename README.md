@@ -19,7 +19,15 @@ The **FABMATCH** project is a 🖥️ digital platform that serves as a mediator
 
 ## Project Description
 
-The project aims to provide an educational environment that supports students in developing their technical and creative skills. It relies on the latest tools to ensure high performance and ease of use.
+FABMATCH is an innovative platform designed to bridge the gap between 3D printing enthusiasts, designers, and end users. Our goal is to create a seamless experience that connects 3D printer owners with talented 3D designers, enabling efficient collaboration and problem-solving.
+
+Through FABMATCH, we aim to address common challenges in the 3D printing and design industries by:
+1. Providing a user-friendly interface for matching designers with 3D printer owners.
+2. Helping end users access tailored 3D printed solutions for their unique needs.
+3. Encouraging collaboration to optimize designs and reduce production errors.
+4. Empowering the 3D printing community with a reliable and efficient platform.
+
+Whether you're a designer, a 3D printer owner, or someone seeking customized 3D printed products, FABMATCH is here to connect and support you.
 
 ---
 
