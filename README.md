@@ -2,7 +2,7 @@
 
 ![The Impact of 3D Printing](./src/assets/The-Impact-of-3D-Printing-on-Manufacturing-and-Design-Industries.gif)
 
-The **FABMATCH** project is a 🖥️ digital platform that serves as a mediator between 🖨️ 3D printer owners, 🏗️ specialized 3D designers, and end-users, aimed at supporting students and innovators. It is built using modern technologies like **⚛️ React** and **⚡ Vite** to provide a seamless and fast experience.
+Tffffhe **FABMATCH** project is a 🖥️ digital platform that serves as a mediator between 🖨️ 3D printer owners, 🏗️ specialized 3D designers, and end-users, aimed at supporting students and innovators. It is built using modern technologies like **⚛️ React** and **⚡ Vite** to provide a seamless and fast experience.
 
 ---
 
