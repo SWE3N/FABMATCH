@@ -10,7 +10,7 @@ The **FABMATCH** project is a 🖥️ digital platform that serves as a mediator
 
 | Name                 | Role               | Contact              | LinkedIn                             |
 |----------------------|--------------------|----------------------|--------------------------------------|
-| Fahad Alghamdi       | Founder / Developer | 📧 fahad@example.com    | [🔗 Fahad Alghamdi](https://linkedin.com/in/fahad-alghamdi) |
+| Fahad Alghamdi       | Founder / Developer | 📧 fahad@example.com    | [🔗 Fahad Alghamdi](www.linkedin.com/in/fahad-alghamdi-a91969246) |
 | Saad Alquhaiz        | Founder / Developer  | 📧 saad@example.com     | [🔗 Saad Alquhaiz](https://www.linkedin.com/in/saad-alquhaiz-a2988726b/)   |
 | Abdullah Aldosari    | Founder / Developer | 📧 abdullah.m.a442@gmail.com | [🔗 Abdullah Aldosari](https://www.linkedin.com/in/abdullah-al-dossary-679a07259/) |
 | Abdulaziz Albudrani  | Founder / Developer  | 📧 abdulaziz@example.com | [🔗 Abdulaziz Albudrani](https://linkedin.com/in/abdulaziz-albudrani) |
