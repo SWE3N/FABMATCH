@@ -1,5 +1,7 @@
 # FABMATCH
 
+![The Impact of 3D Printing](./src/assets/The-Impact-of-3D-Printing-on-Manufacturing-and-Design-Industries.gif)
+
 The **FABMATCH** project is a digital platform aimed at supporting students and innovators. It is built using modern technologies like **React** and **Vite** to provide a seamless and fast experience.
 
 ---
